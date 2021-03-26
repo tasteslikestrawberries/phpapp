@@ -56,8 +56,8 @@ function x() {
 x();
 
 
-#FUN FACTS
-#php has automatic data type conversion - if you assign integer to a variable, it will become type ineteger. then, if you change it to string, the type will be string 
-#constants are automatically global
+# FUN FACTS
+# php has automatic data type conversion - if you assign integer to a variable, it will become type ineteger. then, if you change it to string, the type will be string 
+# constants are automatically global
 ?>
 
