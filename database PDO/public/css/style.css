@@ -1,0 +1,32 @@
+body {
+  background-color:#212025;
+  color: #fbff00;
+  font-family: Calibri;
+  font-size: 18px;
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+  color:#fbff00;
+}
+
+ul {
+  list-style-type: none;
+}
+
+label {
+    display: block;
+    margin: 5px 0;
+  }
+
+  table {
+    border-collapse: collapse;
+    border-spacing: 0;
+  }
+  
+  td,
+  th {
+    padding: 5px;
+    border-bottom: 1px solid #aaa;
+  }

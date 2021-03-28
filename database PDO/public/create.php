@@ -57,11 +57,11 @@ implode(", ", array_keys($new_user)),
   <label for="age">Age</label>
   <input type="text" name="age" id="age">
   <label for="location">Location</label>
-  <input type="text" name="location" id="location">
+  <input type="text" name="location" id="location"> <br> <br>
   <input type="submit" name="submit" value="Submit">
 
 </form>
-
+<br>
 <a href="index.php">Back to home</a>
 
 <?php require "templates/footer.php"; ?>
